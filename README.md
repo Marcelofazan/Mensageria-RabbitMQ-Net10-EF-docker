@@ -35,3 +35,4 @@ dotnet ef migrations add CriarBancoInicial
 dotnet ef database update
 dotnet run 
 ```
+Os dados do arquivo **Json** serão gravados no SQLite.
